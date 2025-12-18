@@ -12,5 +12,68 @@
         "filename": "HachiMaruPop.ttf",
         "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/HachiMaruPop.ttf",
         "category": "japanese"
+    },
+    {
+        "name": "Chilltan Regular",
+        "family": "Chilltan",
+        "filename": "Chilltan-Regular.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/Chilltan-Regular.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "Doto",
+        "family": "Doto",
+        "filename": "Doto-VariableFont_ROND,wght.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/Doto-VariableFont_ROND,wght.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "Friend Info",
+        "family": "Friend Info",
+        "filename": "Friend_Info.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/Friend_Info.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "High Summit",
+        "family": "High Summit",
+        "filename": "High Summit.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/High Summit.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "Okesip",
+        "family": "Okesip",
+        "filename": "Okesip.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/Okesip.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "Feltful Regular",
+        "family": "Feltful",
+        "filename": "feltful_regular.otf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/feltful_regular.otf",
+        "category": "latin"
+    },
+    {
+        "name": "Madou FMG",
+        "family": "Madou FMG",
+        "filename": "madoufmg.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/madoufmg.ttf",
+        "category": "japanese"
+    },
+    {
+        "name": "Party Bold",
+        "family": "Party",
+        "filename": "party-bold.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/party-bold.ttf",
+        "category": "latin"
+    },
+    {
+        "name": "Maru Minya M",
+        "family": "Maru Minya M",
+        "filename": "MaruMinyaM.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/MaruMinyaM.ttf",
+        "category": "japanese"
     }
 ]
