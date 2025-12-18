@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Zen Maru Gothic",
+        "family": "Zen Maru Gothic",
+        "filename": "ZenMaru.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/ZenMaru.ttf",
+        "category": "japanese"
+    },
+    {
+        "name": "Hachi Maru Pop",
+        "family": "Hachi Maru Pop",
+        "filename": "HachiMaruPop.ttf",
+        "downloadUrl": "https://raw.githubusercontent.com/nomux2/sonic-forge-player-rel/main/fonts/HachiMaruPop.ttf",
+        "category": "japanese"
+    }
+]
